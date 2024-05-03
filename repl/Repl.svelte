@@ -1,0 +1,12 @@
+<div
+	class="hover:bg-neutral-200
+			space-y-2
+			border-b
+			p-4
+			transition-all 
+			translate-y-4 
+			translate-x-5 
+			opacity-[0.5]"
+>
+	asdas
+</div>
